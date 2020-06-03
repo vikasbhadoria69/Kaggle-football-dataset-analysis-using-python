@@ -1,6 +1,6 @@
 What is this project?
 Football Dataset Analysis is a project to analyse and extract information from the [kaggle football dataset](https://www.kaggle.com/secareanualin/football-events/home).
-I have mainly focused on Spanish La Liga in my analyses.
+I have mainly focused on Spanish La Liga in my analyses. Kindly see all the outputs are analysis in the pdf report. 
 
 Tools and librariesused for development;
 - Editor: [Jupyter Notebook]
