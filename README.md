@@ -20,18 +20,18 @@ I have mainly focused on Spanish La Liga in my analyses. Kindly see all the outp
 	5. seaborn
 	
 ## Dataset Description:
-*Game_info.csv 
-	*ID: game id
-	*General: league, season, date and host country.
-	*Teams: home and away teams.
-	*Results: home and away goals.
-	*Odds: odds on (home win, away win and draw)
-*Events.csv:
-	*ID: game id and event id.
-	*Teams: playing team and opponent.
-	*Player: players involved in the event, bodypart, assist method and
-	*situation.
-	*Shot: location (in the pitch), outcome, place, and is_goal or not.
+* Game_info.csv 
+	* ID: game id
+	* General: league, season, date and host country.
+	* Teams: home and away teams.
+	* Results: home and away goals.
+	* Odds: odds on (home win, away win and draw)
+* Events.csv:
+	* ID: game id and event id.
+	* Teams: playing team and opponent.
+	* Player: players involved in the event, bodypart, assist method and
+	* situation.
+	* Shot: location (in the pitch), outcome, place, and is_goal or not.
 	
 ## Detailed Analysis of Goals:
 
